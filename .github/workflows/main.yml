@@ -1,4 +1,4 @@
-name: pipline
+name: package manager
 
 on:
   push:
